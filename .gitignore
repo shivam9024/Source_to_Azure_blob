@@ -1,0 +1,28 @@
+.env
+# Ignore Python cache files and directories
+__pycache__/
+*.py[cod]
+
+# Ignore environment files and directories
+env/
+.venv/
+*.env
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore compiled files and folders
+*.egg-info/
+*.egg
+*.pyo
+*.pyd
+*.pyd
+
+# Ignore logs and temp files
+*.log
+*.tmp
+
+# Ignore IDE configuration files (optional)
+.vscode/
+.idea/
